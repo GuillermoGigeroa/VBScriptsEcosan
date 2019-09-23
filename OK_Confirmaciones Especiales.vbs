@@ -1,3 +1,5 @@
+'Acceso directo que se utiliza: CTRL + ALT + L
+
 Set WshShell = WScript.CreateObject("WScript.Shell")
 Dim f
 Dim empresa

@@ -1,3 +1,5 @@
+'Acceso directo que se utiliza: CTRL + ALT + F
+
 Sub ponerNoPasoElChofer (op, obs)
 '01 CANCELAR ENTREGA
 '02 CANCELAR RETIRO

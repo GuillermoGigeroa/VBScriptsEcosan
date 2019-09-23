@@ -1,3 +1,5 @@
+'Acceso directo que se utiliza: CTRL + ALT + A
+
 Sub ponerNoPasoElChofer
 
 Set WshShell = WScript.CreateObject("WScript.Shell")
