@@ -7,5 +7,5 @@ WScript.Sleep(15000)
 WshShell.AppActivate "Ingreso al Sistema Eco9"
 WshShell.SendKeys "servicios16"
 WshShell.SendKeys "{TAB}"
-WshShell.SendKeys "melaolvide025."
+WshShell.SendKeys "unacontra"
 WshShell.SendKeys "{ENTER}"

@@ -10,7 +10,7 @@ WshShell.SendKeys "servicios16"
 WScript.Sleep(300)
 WshShell.SendKeys "{TAB}"
 WScript.Sleep(300)
-WshShell.SendKeys "melaolvide025."
+WshShell.SendKeys "unacontra"
 WScript.Sleep(300)
 WshShell.SendKeys "{ENTER}"
 WScript.Sleep(7000)
