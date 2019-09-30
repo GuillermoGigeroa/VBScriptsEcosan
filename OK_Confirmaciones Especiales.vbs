@@ -44,14 +44,10 @@ Select Case empresa
 		f = 15
 	Case "nasa"
 		f = 15
-	Case "PAN12"
-		f = 12
-	Case "pan12"
-		f = 12
-	Case "PAN13"
-		f = 13
-	Case "pan13"
-		f = 13
+	Case "PAN"
+		f = 52
+	Case "pan"
+		f = 52
 	Case "TECNA"
 		f = 13
 	Case "tecna"
