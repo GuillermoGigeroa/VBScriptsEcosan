@@ -13,9 +13,9 @@ Select Case empresa
 	Case "sindicato"
 		f = 25
 	Case "CONTRERAS"
-		f = 47
+		f = 45
 	Case "contreras"
-		f = 47
+		f = 45
 	Case "ANDRADE"
 		f = 40
 	Case "andrade"
@@ -41,21 +41,21 @@ Select Case empresa
 	Case "trp"
 		f = 25
 	Case "NASA"
-		f = 15
+		f = 18
 	Case "nasa"
-		f = 15
+		f = 18
 	Case "PAN"
-		f = 52
+		f = 43
 	Case "pan"
-		f = 52
+		f = 43
 	Case "TECNA"
 		f = 13
 	Case "tecna"
 		f = 13
 	Case "RINALDI"
-		f = 22
+		f = 14
 	Case "rinaldi"
-		f = 22
+		f = 14
 	Case "SOLCAN"
 		f = 13
 	Case "solcan"
@@ -65,9 +65,9 @@ Select Case empresa
 	Case "agp"
 		f = 14
 	Case "TECHINT"
-		f = 25
+		f = 32
 	Case "techint"
-		f = 25
+		f = 32
 	Case "Salir"
 		salir = True
 	Case "salir"
