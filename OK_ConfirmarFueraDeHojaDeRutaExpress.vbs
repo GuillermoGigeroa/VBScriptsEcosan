@@ -6,7 +6,7 @@ Dim t
 Dim tipoDeBanio
 
 
-f = 1
+f = 3
 'f = 1 si es arriba, f = 3 si es abajo
 t = 1
 't = 1 si es B0, t = 2 si es DPF00, t = 3 si es GCBACMA00, t = 4 si es CMAEHU00
