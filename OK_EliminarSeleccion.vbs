@@ -3,17 +3,17 @@ Sub eliminarSeleccion
 Set WshShell = WScript.CreateObject("WScript.Shell")
 
 WshShell.SendKeys " "
-WScript.Sleep(100)
+WScript.Sleep(50)
 WshShell.SendKeys "%"
-WScript.Sleep(100)
+WScript.Sleep(50)
 WshShell.SendKeys "{DOWN}"
-WScript.Sleep(100)
+WScript.Sleep(50)
 WshShell.SendKeys "{DOWN}"
-WScript.Sleep(100)
+WScript.Sleep(50)
 WshShell.SendKeys "{ENTER}"
-WScript.Sleep(100)
+WScript.Sleep(50)
 WshShell.SendKeys "{DOWN}"
-WScript.Sleep(100)
+WScript.Sleep(50)
 
 End sub
 '==============================================================================================================================================================
