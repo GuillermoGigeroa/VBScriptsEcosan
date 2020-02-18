@@ -25,9 +25,9 @@ Select Case empresa
 	Case "exolgan"
 		f = 36
 	Case "T4"
-		f = 19
+		f = 23
 	Case "t4"
-		f = 19
+		f = 23
 	Case "BACFSSA"
 		f = 24
 	Case "BACFSA"
@@ -41,13 +41,13 @@ Select Case empresa
 	Case "trp"
 		f = 25
 	Case "NASA"
-		f = 13
+		f = 12
 	Case "nasa"
-		f = 13
+		f = 12
 	Case "PAN"
-		f = 44
+		f = 45
 	Case "pan"
-		f = 44
+		f = 45
 	Case "TECNA"
 		f = 13
 	Case "tecna"
@@ -65,9 +65,9 @@ Select Case empresa
 	Case "agp"
 		f = 14
 	Case "TECHINT"
-		f = 32
+		f = 20
 	Case "techint"
-		f = 32
+		f = 20
 	Case "Salir"
 		salir = True
 	Case "salir"
@@ -90,7 +90,7 @@ If salir = False Then
 	If Not f = "" Then
 		For i = 1 To f
 			WshShell.SendKeys " "
-			WshShell.SendKeys "{down}"
+			WshShell.SendKeys "{DOWN}"
 		Next
 	End If
 End If
